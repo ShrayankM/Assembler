@@ -1,0 +1,7 @@
+PROG START 100 	
+	 USING *,15
+	 L 1,TEN
+	 S 1,=F'5'
+	 ST 2,1
+TEN DC F'10' 	
+	 END 	 	
